@@ -1,20 +1,17 @@
-# LaunchDarkly Feedback Form HTML Assignment
+# DAY 8
 
-This HTML document contains a feedback form for collecting user opinions on recent updates. It includes text inputs, radio buttons, a dropdown, a textarea, and submit button. Additionally, it features embedded video and audio elements.
+Create a list to store employee data.
 
-Added CSS to all possible elements and tags using various selectors like class, id, and element.
+Set up a form to add or edit employee details.
 
-Made the website plesent on eyes and responsive
+Add a new employee with a unique ID when the form is submitted.
 
-Added JavaScript, used to var, const, let for variable declaration
+Update existing employee details if editing mode is active.
 
-got the input from the html using the .getelementbyid() function 
+Display employee details as cards on the screen.
 
-made a function to validate the form for empty string and @ in emails
+Allow editing by filling the form with the selected employee's details.
 
-made a calculate function to calculate the avg score
+Enable deleting an employee and refreshing the display.
 
-using the document.querySelector to get the form and checking for the event submit by using the eventlistener function
-
-and calling the validate function.
-
+Redraw the employee list after any changes.
